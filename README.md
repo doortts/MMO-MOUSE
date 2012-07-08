@@ -2,7 +2,7 @@ MMO-MOUSE
 =========
 
 muliti-user mouse cursor 
-inspiration by http://ehudashkenazi.com/mouse-pointer-location-browser 
+inspired by http://ehudashkenazi.com/mouse-pointer-location-browser 
 
 preparation
 -----------

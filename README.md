@@ -13,6 +13,6 @@ change to your ip address
 
 start
 -----
-node app.js
 
-
+	npm install
+	node app.js

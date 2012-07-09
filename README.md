@@ -6,7 +6,7 @@ inspired by http://ehudashkenazi.com/mouse-pointer-location-browser
 
 preparation
 -----------
-change to your ip address
+change to your ip address described at
 14 line of 'views\index.jade' file
 
 eg.
@@ -20,5 +20,7 @@ start
 	node app.js
 	
 open web browser and type the address which you set above
+
+eg
 
 	http://10.64.164.55:3000

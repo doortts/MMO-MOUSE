@@ -19,6 +19,6 @@ start
 	npm install
 	node app.js
 	
-open web browser, then type the address
+open web browser and type the address which you set above
 
 	http://10.64.164.55:3000

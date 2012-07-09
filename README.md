@@ -7,7 +7,7 @@ inspired by http://ehudashkenazi.com/mouse-pointer-location-browser
 preparation
 -----------
 change to your ip address described at
-14 line of *'views/index.jade'* file
+14 line of ['views/index.jade'](https://github.com/doortts/MMO-MOUSE/blob/master/views/index.jade#L14) file
 
 eg.
 

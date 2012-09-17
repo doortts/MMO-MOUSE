@@ -6,8 +6,8 @@ inspired by http://ehudashkenazi.com/mouse-pointer-location-browser
 
 preparation
 -----------
-change to your ip address
-14 line of 'views\index.jade' file
+change to your ip address described at
+14 line of ['views/index.jade'](https://github.com/doortts/MMO-MOUSE/blob/master/views/index.jade#L14) file
 
 eg.
 
@@ -18,3 +18,9 @@ start
 
 	npm install
 	node app.js
+	
+open web browser and type the address which you set above
+
+eg
+
+	http://10.64.164.55:3000
